@@ -1,0 +1,14 @@
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\bin\Debug\hashTable.exe.config
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\bin\Debug\hashTable.exe
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\bin\Debug\hashTable.pdb
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\hashTable.csprojResolveAssemblyReference.cache
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\MainWindow.g.cs
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\App.g.cs
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\hashTable_MarkupCompile.cache
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\hashTable_MarkupCompile.lref
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\MainWindow.baml
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\hashTable.g.resources
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\hashTable.Properties.Resources.resources
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\hashTable.csproj.GenerateResource.Cache
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\hashTable.exe
+D:\CorseGameDev\Project Learning\C# profesanal\BrnToDevLS9\hashTable\hashTable\obj\Debug\hashTable.pdb
